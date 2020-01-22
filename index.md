@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: This is a simple resume
+description: Let you know me better.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
