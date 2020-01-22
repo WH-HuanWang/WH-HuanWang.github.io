@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: Let you know me better.
+description: Let you know me and my team better.
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
