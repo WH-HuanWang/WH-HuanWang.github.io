@@ -25,9 +25,11 @@ description: Let you know me and my group better.
 * * *
 I am Huan Wang.
 
-## Journal Article ###[[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
-
+## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 * * *
+* Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition.
+Dandan Peng, Huan Wang#, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian.
+IEEE Transactions on Industrial Informatics
 
 
 ## Conference Article
@@ -35,6 +37,7 @@ I am Huan Wang.
 
 ## Experience
 * * *
+
 
 ## Honors & Awards
 * * *
