@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: Let you know me and my team better.
+description: Let you know me and my group better.
 ---
 
 <table border="0">
