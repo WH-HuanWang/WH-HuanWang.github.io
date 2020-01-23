@@ -25,7 +25,7 @@ description: Let you know me and my group better.
 * * *
 I am Huan Wang.
 
-## Journal Article [Google Scholar](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
+## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 
 * * *
 
