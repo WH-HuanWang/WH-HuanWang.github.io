@@ -8,7 +8,7 @@ description: Let you know me and my group better.
   <tr>
     <td width="75%">
       <h1>Huan Wang</h1>
-      <p>Master Degree Candidate</p>
+      <p><b>Master Degree Candidate</b></p>
       <p>School of mechanical and electrical engineering</p>
       <p>University of Electronic Science and Technology of China</p>
       <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
@@ -19,7 +19,6 @@ description: Let you know me and my group better.
     </td>
   </tr>
 </table>
-
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
