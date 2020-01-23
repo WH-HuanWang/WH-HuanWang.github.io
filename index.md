@@ -20,10 +20,19 @@ description: Let you know me and my group better.
   </tr>
 </table>
 
-### Biography
+## Biography
 
 * * *
 I am Huan Wang.
+
+## Journal Article [Google Scholar](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
+
+* * *
+
+
+## Conferenc Article
+* * *
+
 
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
