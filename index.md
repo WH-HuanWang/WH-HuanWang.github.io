@@ -9,9 +9,10 @@ description: Let you know me and my group better.
     <td width="75%">
       <h1>Huan Wang</h1>
       <p>Master Degree Candidate</p>
-      <p><b>University of Electronic Science and Technology of China</b></p>
-      <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone, 611731</b></p>
-      <p><b>Email: wh.huanwang@gmail.com</b></p>
+      <p>School of mechanical and electrical engineering</p>
+      <p>University of Electronic Science and Technology of China</p>
+      <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
+      <p>Email: wh.huanwang@gmail.com</b></p>
     </td>
     <td width="25%">
       <img src="image/WangHuan.jpg" width="100%">
