@@ -8,7 +8,7 @@ description: Let you know me and my group better.
   <tr>
     <td width="75%">
       <h1>Huan Wang</h1>
-      <p><b>Master Degree Candidate</b></p>
+      <p>Master Degree Candidate</p>
       <p><b>University of Electronic Science and Technology of China</b></p>
       <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone, 611731</b></p>
       <p><b>Email: wh.huanwang@gmail.com</b></p>
