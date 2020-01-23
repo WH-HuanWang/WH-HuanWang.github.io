@@ -20,6 +20,11 @@ description: Let you know me and my group better.
   </tr>
 </table>
 
+### Biography
+
+* * *
+I am Huan Wang.
+
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
