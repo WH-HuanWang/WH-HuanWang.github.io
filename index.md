@@ -7,14 +7,14 @@ description: Let you know me and my group better.
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Huan Wang</h1>
+      <p><b>Master Degree Candidate</b></p>
+      <p><b>University of Electronic Science and Technology of China</b></p>
+      <p><b>No.2006, Xiyuan Ave, West Hi-Tech Zone, 611731</b></p>
+      <p><b>wh.huanwang@gmail.com</b></p>
     </td>
     <td width="25%">
-      <img src="image/WangHuan.jpg" width="100%">      % 插入证件照代码
+      <img src="image/WangHuan.jpg" width="100%">
     </td>
   </tr>
 </table>
