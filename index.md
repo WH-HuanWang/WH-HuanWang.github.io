@@ -33,8 +33,8 @@ I am Huan Wang.
 
 ## Conference Article
 * * *
-* Zuhao Liu, <b>Huan Wang#<b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images, 2020 IEEE International Symposium on Biomedical Imaging (ISBI 2020).
-* Zhixing Zhu, <b>Huan Wang*<b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference (PSHM 2019).
+* Zuhao Liu, <b>Huan Wang#</b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images, 2020 IEEE International Symposium on Biomedical Imaging (ISBI 2020).
+* Zhixing Zhu, <b>Huan Wang*</b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference (PSHM 2019).
 * Wenhui Lei, <b>Huan Wang</b>, Ran Gu, Shichuan Zhang, Shaoting Zhang, and Guotai Wang*. "DeepIGeoS-V2:DeepInteractive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs", Large-scale Annotation of Biomedical data and Expert Label Synthesis (LABELS 2019).
 * <b>Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries (BrainLes 2019).
 * <b>Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", 10th International Workshop on Machine Learning in Medical Imaging (MLMI 2019).
