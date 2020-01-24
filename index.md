@@ -12,7 +12,7 @@ description: Let you know me and my group better.
       <p>School of mechanical and electrical engineering</p>
       <p>University of Electronic Science and Technology of China</p>
       <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
-      <p>Email: wh.huanwang@gmail.com</b></p>
+      <p>Email: <b>wh.huanwang@gmail.com</b></p>
     </td>
     <td width="25%">
       <img src="image/WangHuan.jpg" width="100%">
