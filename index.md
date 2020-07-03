@@ -9,7 +9,7 @@ description: Let you know me and my research better.
     <td width="75%">
       <h1>Huan Wang</h1>
       <p><b>Master Degree Candidate—Pursuing Ph.D admission in 2021 fall</b></p>
-      <p>School of mechanical and electrical engineering</p>
+      <p>Mechanical engineering，School of mechanical and electrical engineering</p>
       <p>University of Electronic Science and Technology of China</p>
       <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
       <p>Email: <b>wh.huanwang@gmail.com</b></p>
@@ -24,7 +24,7 @@ description: Let you know me and my research better.
 * * *
 * Deep Learning, Pattern Recognition；
 * Condition Monitoring and Fault Diagnosis of Machinery, such as Bearings and Gearboxes;
-* Remaining Useful Life Estimation，Vibration Signal Denoising;
+* Remaining Useful Life Estimation, Vibration Signal Denoising;
 * Medical Image Analysis and Electrocardiogram Diagnosis.
 
 ## Education and Work
