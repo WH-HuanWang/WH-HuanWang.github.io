@@ -29,7 +29,7 @@ description: Let you know me and my research better.
 
 ## Education and Work
 * * *
-* <b>University of Electronic Science and Technology of China</b>   <div align="right"><b >2018 - present</b></div>
+* <b>University of Electronic Science and Technology of China <div align="right"><b >2018 - present</b></div></b>   
 *   M.S. in Mechanical engineering, School of mechanical and electrical engineering
 
 I am Huan Wang.
