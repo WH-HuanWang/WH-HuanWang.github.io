@@ -29,10 +29,16 @@ description: Let you know me and my research better.
 
 ## Education and Work
 * * *
-* <b>University of Electronic Science and Technology of China   (2018 - present)</b>   
+* <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2018 - present]</b>   
 M.S. in Mechanical engineering, School of mechanical and electrical engineering
 
-I am Huan Wang.
+* <b>Sichuan Huluwa Trading Co., Ltd. and Chengdu Baizhiwu Technology Co., Ltd. &nbsp;&nbsp;&nbsp;[2016 - 2018]</b>   
+Software development and entrepreneurship
+
+* <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2012 - 2016]</b>   
+B.S. in Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
+
+
 
 ## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 * * *
