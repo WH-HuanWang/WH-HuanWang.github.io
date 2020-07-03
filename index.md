@@ -27,7 +27,8 @@ description: Let you know me and my research better.
 * Remaining Useful Life Estimation，Vibration Signal Denoising;
 * Medical Image Analysis and Electrocardiogram Diagnosis.
 
-## Biography
+## Education and Work
+* <b>University of Electronic Science and Technology of China</b> 2018-
 
 * * *
 I am Huan Wang.
