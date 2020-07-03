@@ -28,7 +28,7 @@ description: Let you know me and my research better.
 * Medical Image Analysis and Electrocardiogram Diagnosis.
 
 ## Education and Work
-* <b>University of Electronic Science and Technology of China</b> 2018-
+* <b>University of Electronic Science and Technology of China</b>   <div align="right">This is some text!</div>
 
 * * *
 I am Huan Wang.
