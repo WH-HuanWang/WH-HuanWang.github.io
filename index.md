@@ -39,7 +39,7 @@ Software development and entrepreneurship
 B.S. in Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
 
 
-## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1) &nbsp;&nbsp;&nbsp; 哈哈
+## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1) &nbsp;&nbsp;&nbsp; <font size="3">This is some text!</font>
 * * *
 * <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019</b>, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240).
 * Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020</b>, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243).
