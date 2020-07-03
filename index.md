@@ -40,7 +40,7 @@ I am Huan Wang.
 
 ## Conference Article
 * * *
-* Zhixing Zhu, <b>Huan Wang*</b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019)</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942870).
+* Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019)</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942870).
 * Haoran Han, <b>Huan Wang*</b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
 * Junjie Liu, <b>Huan Wang</b>, Zhiliang Liu*, Zilin Wang. "Fault Diagnosis Based on 1D-CNN with Associated Auxiliary Tasks Boosted for Wheelset Bearings of High-Speed Trains", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
 * Yijia Hao, <b>Huan Wang*</b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
