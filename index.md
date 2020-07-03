@@ -39,8 +39,7 @@ Software development and entrepreneurship
 B.S. in Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
 
 
-
-## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
+## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1) &nbsp;&nbsp;&nbsp; 哈哈
 * * *
 * <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019</b>, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240).
 * Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020</b>, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243).
@@ -49,18 +48,18 @@ B.S. in Mechanical design, manufacturing and automation, School of mechanical an
 ## Conference Article
 * * *
 * Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019)</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942870).
-* Haoran Han, <b>Huan Wang*</b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
+* Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
 * Junjie Liu, <b>Huan Wang</b>, Zhiliang Liu*, Zilin Wang. "Fault Diagnosis Based on 1D-CNN with Associated Auxiliary Tasks Boosted for Wheelset Bearings of High-Speed Trains", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
-* Yijia Hao, <b>Huan Wang*</b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
-* Haoran Han, <b>Huan Wang*</b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
+* Yijia Hao, <b>Huan Wang* </b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
+* Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
 * <b>Huan Wang</b>, Ran Gu#, Zhongyu Li*. "Automated Segmentation of Intervertebral Disc Using Fully Dilated Separable Deep Neural Networks", Computational Methods and Clinical Applications for Spine Imaging <b>(CSI 2018)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-13736-6_6.pdf).
 * <b>Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries <b>(BrainLes 2019)</b>.
 * <b>Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_70.pdf).
 * <b>Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_50.pdf).
 * Wenhui Lei, <b>Huan Wang</b>, Ran Gu, Shichuan Zhang, Shaoting Zhang, and Guotai Wang*. "DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs", Large-scale Annotation of Biomedical data and Expert Label Synthesis <b>(LABELS 2019)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-33642-4_7.pdf).
-* Yibo Gao, <b>Huan Wang*</b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020)</b>.
-* Zuhao Liu, <b>Huan Wang#</b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
-* Zuhao Liu, <b>Huan Wang#</b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
+* Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020)</b>.
+* Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
+* Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 
 
 ## Experience
