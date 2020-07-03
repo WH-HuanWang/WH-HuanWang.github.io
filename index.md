@@ -8,7 +8,7 @@ description: Let you know me and my research better.
   <tr>
     <td width="75%">
       <h1>Huan Wang</h1>
-      <p><b>Master Degree Candidate</b></p>
+      <p><b>Master Degree Candidate——Pursuing Ph.D admission in 2021 fall</b></p>
       <p>School of mechanical and electrical engineering</p>
       <p>University of Electronic Science and Technology of China</p>
       <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
