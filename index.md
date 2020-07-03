@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: Let you know me and my group better.
+description: Let you know me and my research better.
 ---
 
 <table border="0">
@@ -19,6 +19,13 @@ description: Let you know me and my group better.
     </td>
   </tr>
 </table>
+
+## Research Interests
+* * *
+* Deep Learning, Pattern Recognition；
+* Condition Monitoring and Fault Diagnosis of Machinery, such as Bearings and Gearboxes;
+* Remaining Useful Life Estimation，Vibration Signal Denoising;
+* Medical Image Analysis and Electrocardiogram Diagnosis.
 
 ## Biography
 
