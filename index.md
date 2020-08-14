@@ -43,6 +43,7 @@ B.S. in Mechanical design, manufacturing and automation, School of mechanical an
 * * *
 * <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240).
 * Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 9.112</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243).
+* Zhiliang Liu, <b>Huan Wang*</b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b>IEEE Transactions on Instrumentation and Measurement, Accepted, 2020. IF: 3.658.</b>.
 * Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.745</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8584445).
 
 ## Conference Article
@@ -58,7 +59,7 @@ B.S. in Mechanical design, manufacturing and automation, School of mechanical an
 * <b>Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_50.pdf).
 * Wenhui Lei, <b>Huan Wang</b>, Ran Gu, Shichuan Zhang, Shaoting Zhang, and Guotai Wang*. "DeepIGeoS-V2: Deep Interactive Segmentation of Multiple Organs from Head and Neck Images with Lightweight CNNs", Large-scale Annotation of Biomedical data and Expert Label Synthesis <b>(LABELS 2019)</b>, [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-33642-4_7.pdf).
 * Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020)</b>.
-* Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
+* Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>, [[PDF]](https://ieeexplore.ieee.org/document/9098711). 
 * Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 
 ## Chinese Invention Patents
