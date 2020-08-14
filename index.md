@@ -43,7 +43,7 @@ B.S. in Mechanical design, manufacturing and automation, School of mechanical an
 * * *
 * <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240).
 * Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 9.112</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243).
-* Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b>IEEE Transactions on Instrumentation and Measurement, Accepted, 2020. IF: 3.658</b>.
+* Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, Accepted, 2020. IF: 3.658 </b>.
 * Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.745</b>, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8584445).
 
 ## Conference Article
