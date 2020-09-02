@@ -4,7 +4,8 @@
 @import 'jekyll-theme-cayman';
 
 .main-content {
-  font-size: 1.0rem;
+  font-size: 1.05rem;
+  max-width: 86rem;
 }
 
 .main-content hr {
@@ -44,7 +45,7 @@
 }
 
 .main-content img {
-  max-width: 90%;
+  max-width: 60%;
 }
 
 body {
@@ -52,6 +53,6 @@ body {
 }
 
 a {
-  color: #4e657de0;
+  color: #645baee0;
 }
 
