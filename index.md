@@ -58,7 +58,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## Selected Conference Articles
 * * *
-### <b>Prognostics and System Health Management</b>
+#### Prognostics and System Health Management
 
 * <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
 * <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
