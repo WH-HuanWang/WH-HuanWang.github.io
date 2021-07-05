@@ -43,7 +43,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## Selected Journal Articles
 * * *
-* Remark: # means equal contribution; * means corresponding author.
+#### &nbsp;&nbsp;&nbsp; Remark: # means equal contribution; * means corresponding author.
 
 * <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Industrial Informatics, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
 * <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
@@ -58,7 +58,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## Selected Conference Articles
 * * *
-### &nbsp;&nbsp; Prognostics and System Health Management
+### &nbsp;&nbsp;&nbsp; Prognostics and System Health Management
 
 * <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
 * <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
@@ -67,7 +67,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>2. </b>Tongrui Xu, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao,"Machinery Fault Diagnosis Using Recurrent Neural Network: A Review", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
 * <b>1. </b>Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019)</b>.
 
-### &nbsp;&nbsp; Medical Information Analysis
+### &nbsp;&nbsp;&nbsp; Medical Information Analysis
 
 * <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 * <b>6. </b>Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
