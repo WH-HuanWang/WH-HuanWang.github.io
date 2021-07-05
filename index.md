@@ -56,7 +56,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>1. </b>Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.367, [[PDF]](https://ieeexplore.ieee.org/document/8584445)</b>.
 
 
-## Selected Conference Articles
+## <b>Selected Conference Articles</b>
 * * *
 ### &nbsp;&nbsp;&nbsp; Prognostics and System Health Management
 
