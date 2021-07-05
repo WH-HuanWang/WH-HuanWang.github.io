@@ -26,7 +26,7 @@ description: Let you know me and my research better.
 * Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
 * Medical Image Analysis, Electrocardiogram Diagnosis.
 
-## Education and Work
+## Education and Experience
 * * *
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
 Ph.D.Management Science and Engineering, Department of Industrial Engineering
@@ -45,7 +45,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 * Remark: # means equal contribution; * means corresponding author.
 
-* 1.<b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
+* <b>1. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
 
 
 
