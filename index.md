@@ -42,10 +42,10 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 
 ## Selected Journal Articles
-* &nbsp;&nbsp;&nbsp; (* means equal contribution)
 * * *
+* remark: # means equal contribution; * means corresponding author
 
-* <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
+* 1. <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
 
 
 
