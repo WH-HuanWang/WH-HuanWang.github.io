@@ -43,7 +43,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Selected Journal Articles</b>
 * * *
-#### &nbsp;&nbsp;&nbsp; Remark: # means equal contribution; * means corresponding author.
+#### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
 
 * <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Neural Networks and Learning Systems, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
 * <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
