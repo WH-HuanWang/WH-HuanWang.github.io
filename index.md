@@ -45,7 +45,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; Remark: # means equal contribution; * means corresponding author.
 
-* <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Industrial Informatics, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
+* <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Neural Networks and Learning Systems, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
 * <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
 * <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
 * <b>6. </b>Yibo Gao, <b>Huan Wang*</b>, Zuhao Liu. "An End-to-end Atrial Fibrillation Detection by a Novel Residual-based Temporal Attention Convolutional Neural Network with Exponential Nonlinearity Loss", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307188)</b>.
@@ -60,6 +60,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Prognostics and System Health Management</b>
 
+* <b>7. </b>Yizhuo Yang, <b>Huan Wang* </b>, Zhiliang Liu*, Zeyu Yang. "Few-shot Learning for Rolling Bearing Fault Diagnosis Via Siamese Two-dimensional Convolutional Neural Network", 2020 11th International Conference on Prognostics and System Health Management <b>(PHM-2020 Jinan)</b>.
 * <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
 * <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
 * <b>4. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
@@ -69,6 +70,8 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
 
+* <b>9. </b>Haoyang Wu#, <b>Huan Wang# </b>,Hao He, Zixiao He, Guotai Wang*. "A Novel Weakly Supervised Framework Based On Noisy-Label Learning For Medical Image Segmentation", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
+* <b>8. </b>Qianfei Zhao, <b>Huan Wang</b>, Guotai Wang*. "LCOV-NET: A Lightweight Neural Network For COVID-19 Pneumonia Lesion Segmentation From 3D CT Images", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
 * <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 * <b>6. </b>Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
 * <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020)</b>.
