@@ -8,7 +8,7 @@ description: Let you know me and my research better.
   <tr>
     <td width="75%">
       <h1>Huan Wang</h1>
-      <p><b>PhD student at Reliability and Risk Management Lab</b></p>
+      <p><b>Ph.D student at Reliability and Risk Management Lab</b></p>
       <p>Department of Industrial Engineering, Tsinghua University</p>
       <p>Supervisor: Professor, Yan-Fu Li</p>
       <p>Shunde Building, Tsinghua University, Beijing</p>
@@ -20,7 +20,7 @@ description: Let you know me and my research better.
   </tr>
 </table>
 
-## Research Interests
+## Research Interests [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 * * *
 * Deep Learning, Pattern Recognition, Signal Analysis;
 * Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
@@ -41,8 +41,15 @@ Software development and entrepreneurship
 B.S. Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
 
 
-## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
+## Selected Journal Articles
+(* means equal contribution)
 * * *
+
+* <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
+
+
+
+
 * <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
 * Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243)</b>.
 * Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 3.658, [[PDF]](https://ieeexplore.ieee.org/document/9178459) </b>.
