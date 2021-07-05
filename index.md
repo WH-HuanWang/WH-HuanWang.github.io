@@ -45,15 +45,16 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 * Remark: # means equal contribution; * means corresponding author.
 
-* <b>1. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
+* <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Industrial Informatics, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
+* <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
+* <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
+* <b>6. </b>Yibo Gao, <b>Huan Wang*</b>, Zuhao Liu. "An End-to-end Atrial Fibrillation Detection by a Novel Residual-based Temporal Attention Convolutional Neural Network with Exponential Nonlinearity Loss", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307188)</b>.
+* <b>5. </b>Haoran Han#, <b>Huan Wang#</b>, Zhiliang Liu*, Jiayi Wang. "Intelligent Vibration Signal Denoising Method based on Non-local Fully Convolutional Neural Network for Rolling Bearings", <b>ISA transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002196)</b>.
+* <b>4. </b>Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multibranch and Multiscale CNN for Fault Diagnosis of Wheelset Bearings Under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 10.215, [[PDF]](https://ieeexplore.ieee.org/document/8962243)</b>.
+* <b>3. </b>Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9178459)</b>.
+* <b>2. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multiattention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 10.215, [[PDF]](https://ieeexplore.ieee.org/document/8911240)</b>.
+* <b>1. </b>Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.367, [[PDF]](https://ieeexplore.ieee.org/document/8584445)</b>.
 
-
-
-
-* <b>Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multi-Attention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8911240)</b>.
-* Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multi-branch and Multi-scale CNN for Fault Diagnosis of Wheelset Bearings under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 9.112, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8962243)</b>.
-* Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 3.658, [[PDF]](https://ieeexplore.ieee.org/document/9178459) </b>.
-* Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.745, [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8584445)</b>.
 
 ## Conference Article
 * * *
