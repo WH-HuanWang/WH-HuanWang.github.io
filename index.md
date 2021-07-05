@@ -8,10 +8,10 @@ description: Let you know me and my research better.
   <tr>
     <td width="75%">
       <h1>Huan Wang</h1>
-      <p><b>Master Degree Candidate—Pursuing Ph.D admission in 2021 fall</b></p>
-      <p>Mechanical Engineering，School of Mechanical and Electrical Engineering</p>
-      <p>University of Electronic Science and Technology of China</p>
-      <p>No.2006, Xiyuan Ave, West Hi-Tech Zone, Chengdu, Sichuan, P.R.China</p>
+      <p><b>PhD student at Reliability and Risk Management Lab</b></p>
+      <p>Department of Industrial Engineering, Tsinghua University</p>
+      <p>Supervisor: Professor, Yan-Fu Li</p>
+      <p>Shunde Building, Tsinghua University, Beijing</p>
       <p>Email: <b>wh.huanwang@gmail.com</b></p>
     </td>
     <td width="25%">
@@ -22,21 +22,23 @@ description: Let you know me and my research better.
 
 ## Research Interests
 * * *
-* Deep Learning, Pattern Recognition；
-* Condition Monitoring and Fault Diagnosis of Machinery, such as Bearings and Gearboxes;
-* Remaining Useful Life Estimation, Vibration Signal Denoising;
-* Medical Image Analysis and Electrocardiogram Diagnosis.
+* Deep Learning, Pattern Recognition, Signal Analysis;
+* Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
+* Medical Image Analysis, Electrocardiogram Diagnosis.
 
 ## Education and Work
 * * *
-* <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2018 - present]</b>   
-M.S. in Mechanical engineering, School of mechanical and electrical engineering
+* <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
+Ph.D.Management Science and Engineering, Department of Industrial Engineering
+
+* <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2018 - 2021]</b>   
+M.S. Mechanical engineering, School of mechanical and electrical engineering
 
 * <b>Sichuan Huluwa Trading Co., Ltd. and Chengdu Baizhiwu Technology Co., Ltd. &nbsp;&nbsp;&nbsp;[2016 - 2018]</b>   
 Software development and entrepreneurship
 
 * <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2012 - 2016]</b>   
-B.S. in Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
+B.S. Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
 
 
 ## Journal Article [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
