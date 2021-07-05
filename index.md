@@ -50,14 +50,16 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
 * <b>6. </b>Yibo Gao, <b>Huan Wang*</b>, Zuhao Liu. "An End-to-end Atrial Fibrillation Detection by a Novel Residual-based Temporal Attention Convolutional Neural Network with Exponential Nonlinearity Loss", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307188)</b>.
 * <b>5. </b>Haoran Han#, <b>Huan Wang#</b>, Zhiliang Liu*, Jiayi Wang. "Intelligent Vibration Signal Denoising Method based on Non-local Fully Convolutional Neural Network for Rolling Bearings", <b>ISA transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002196)</b>.
-* <b>4. </b>Dandan Peng, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multibranch and Multiscale CNN for Fault Diagnosis of Wheelset Bearings Under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 10.215, [[PDF]](https://ieeexplore.ieee.org/document/8962243)</b>.
+* <b>4. </b>Dandan Peng#, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, Chen Jian. "Multibranch and Multiscale CNN for Fault Diagnosis of Wheelset Bearings Under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 10.215, [[PDF]](https://ieeexplore.ieee.org/document/8962243)</b>.
 * <b>3. </b>Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9178459)</b>.
 * <b>2. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Yong Qin. "Understanding and Learning Discriminant Features based on Multiattention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 10.215, [[PDF]](https://ieeexplore.ieee.org/document/8911240)</b>.
 * <b>1. </b>Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.367, [[PDF]](https://ieeexplore.ieee.org/document/8584445)</b>.
 
 
-## Conference Article
+## Selected Conference Articles
 * * *
+* <b>Prognostics and System Health Management</b>
+* 
 * Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019), [[PDF]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8942870)</b>.
 * Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
 * Junjie Liu, <b>Huan Wang</b>, Zhiliang Liu*, Zilin Wang. "Fault Diagnosis Based on 1D-CNN with Associated Auxiliary Tasks Boosted for Wheelset Bearings of High-Speed Trains", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
@@ -73,6 +75,10 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020), [[PDF]](https://ieeexplore.ieee.org/document/9175823)</b>.
 * Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020), [[PDF]](https://ieeexplore.ieee.org/document/9098711)</b>. 
 * Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
+
+* <b>Medical Information Analysis</b>
+
+
 
 ## Chinese Invention Patents
 * * *
