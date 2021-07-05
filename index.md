@@ -71,7 +71,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 * <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 * <b>6. </b>Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
-* <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020).
+* <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2020)</b>.
 * <b>4. Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019), [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_50.pdf)</b>.
 * <b>3. Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries <b>(BrainLes 2019)</b>.
 * <b>2. Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019)</b>.
@@ -84,11 +84,14 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network. Number: 201910886575.0. Application date: 2019/10.
 * Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network. Application Number: 201910932922.9. Application date: 2019/10.
 
-  
+ 
 ## Honors & Awards
 * * *
-* 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
-* Third Prize in the challenge on segmentation of bladder MRI images in the 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+* Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
+* National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
+* First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
 * Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
 * Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
+* 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
+* Third Prize in the challenge on segmentation of bladder MRI images in the 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
 
