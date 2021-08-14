@@ -45,6 +45,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
 
+* <b>10. </b>Zuhao Liu,<b>Huan Wang*</b>, Yibo Gao, Shunchen Shi. "Automatic Attention Learning Using Neural Architecture Search for Detection of Cardiac Abnormality in 12-lead ECG", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]]()</b>.
 * <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Neural Networks and Learning Systems, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
 * <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
 * <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
@@ -70,6 +71,11 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
 
+* <b>14. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", 43nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2021)</b>.
+* <b>13. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", 43nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2021)</b>.
+* <b>12. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", 43nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2021)</b>.
+* <b>11. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", 43nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2021)</b>.
+* <b>10. </b>Yibo Gao#,<b>Huan Wang#</b>, Xinglong Liu, Ning Huang, Guotai Wang*, Shaoting Zhang. "A Denoising Self-Supervised Approach for COVID-19 Pneumonia Lesion Segmentation with Limited Annotated CT Images", 43nd Annual International Conferences of the IEEE Engineering in Medicine and Biology Society in conjunction <b>(EMBC 2021)</b>.
 * <b>9. </b>Haoyang Wu#, <b>Huan Wang# </b>,Hao He, Zixiao He, Guotai Wang*. "A Novel Weakly Supervised Framework Based On Noisy-Label Learning For Medical Image Segmentation", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
 * <b>8. </b>Qianfei Zhao, <b>Huan Wang</b>, Guotai Wang*. "LCOV-NET: A Lightweight Neural Network For COVID-19 Pneumonia Lesion Segmentation From 3D CT Images", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
 * <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
