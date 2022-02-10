@@ -12,7 +12,7 @@ description: Let you know me and my research better.
       <p>Department of Industrial Engineering, Tsinghua University</p>
       <p>Supervisor: Professor, Yan-Fu Li</p>
       <p>Shunde Building, Tsinghua University, Beijing</p>
-      <p>Email: <b>wh.huanwang@gmail.com; </b></p>
+      <p>Email: <b>wh.huanwang@gmail.com; huan-wan21@mails.tsinghua.edu.cn</b></p>
     </td>
     <td width="25%">
       <img src="image/WangHuan.jpg" width="100%">
