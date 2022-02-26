@@ -24,7 +24,7 @@ description: Let you know me and my research better.
 * * *
 * Deep Learning, Pattern Recognition, Signal Analysis;
 * Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
-* Medical Image Analysis, Electrocardiogram Diagnosis.
+* Rotating Machinery, High-Speed Train, Semiconductor Manufacturing, Unmanned Systems, Medical Information Analysis.
 
 ## <b>Education and Experience</b>
 * * *
@@ -48,7 +48,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>13. Huan Wang</b>, Tianli Men, and Yan-Fu Li*. "Transformer for High-Speed Train Wheel Wear Prediction with Multiplex Local-Global Temporal Fusion", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 4.016, [[PDF]](https://ieeexplore.ieee.org)</b>.
 * <b>12. Huan Wang</b>, Zhiliang Liu*,Yipei Ge, and Dandan Peng. "Self-Supervised Signal Representation Learning for Machinery Fault Diagnosis under Limited Annotation Data", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705121010996)</b>.
 * <b>11. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Zhe Cheng. "Attention-Guided Joint Learning CNN with Noise Robustness for Bearing Fault Diagnosis and Vibration Signal Denoising", <b>ISA Transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0019057821005991)</b>.
-* <b>10. </b>Zuhao Liu,<b>Huan Wang*</b>, Yibo Gao, Shunchen Shi. "Automatic Attention Learning Using Neural Architecture Search for Detection of Cardiac Abnormality in 12-lead ECG", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org)</b>.
+* <b>10. </b>Zuhao Liu,<b>Huan Wang*</b>, Yibo Gao, Shunchen Shi. "Automatic Attention Learning Using Neural Architecture Search for Detection of Cardiac Abnormality in 12-lead ECG", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9526630)</b>.
 * <b>9. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, Mei Yang, Yong Qin. "Feature-Level Attention-Guided Multitask CNN for Fault Diagnosis and Working Conditions Identification of Rolling Bearing", <b>IEEE Transactions on Neural Networks and Learning Systems, 2021, IF 10.451, [[PDF]](https://ieeexplore.ieee.org/document/9372133)</b>.
 * <b>8. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li, Lang Qin. "Deep Learning in ECG Diagnosis: A Review", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705121004494)</b>.
 * <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
@@ -74,13 +74,12 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
 
-* <b>14. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>13. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>12. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>11. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>10. </b>Yibo Gao#,<b>Huan Wang#</b>, Xinglong Liu, Ning Huang, Guotai Wang*, Shaoting Zhang. "A Denoising Self-Supervised Approach for COVID-19 Pneumonia Lesion Segmentation with Limited Annotated CT Images", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>9. </b>Haoyang Wu#, <b>Huan Wang# </b>,Hao He, Zixiao He, Guotai Wang*. "A Novel Weakly Supervised Framework Based On Noisy-Label Learning For Medical Image Segmentation", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
-* <b>8. </b>Qianfei Zhao, <b>Huan Wang</b>, Guotai Wang*. "LCOV-NET: A Lightweight Neural Network For COVID-19 Pneumonia Lesion Segmentation From 3D CT Images", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
+* <b>13. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
+* <b>12. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
+* <b>11. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
+* <b>10. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
+* <b>9. </b>Yibo Gao#,<b>Huan Wang#</b>, Xinglong Liu, Ning Huang, Guotai Wang*, Shaoting Zhang. "A Denoising Self-Supervised Approach for COVID-19 Pneumonia Lesion Segmentation with Limited Annotated CT Images", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
+* <b>8. </b>Haoyang Wu#, <b>Huan Wang# </b>,Hao He, Zixiao He, Guotai Wang*. "A Novel Weakly Supervised Framework Based On Noisy-Label Learning For Medical Image Segmentation", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
 * <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
 * <b>6. </b>Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
 * <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2020)</b>.
@@ -91,13 +90,13 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Chinese Invention Patents</b>
 * * *
-* Zhiliang Liu, Dandan Peng, <b>Huan Wang</b>, The rotating machinery fault diagnosis method based on a deep residual convolutional neural network. Application Number: 201811245199.9. Application date: 2018/11.
-* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network. Number: 201910886575.0. Application date: 2019/10.
-* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network. Application Number: 201910932922.9. Application date: 2019/10.
+* Zhiliang Liu, Dandan Peng, <b>Huan Wang</b>, The rotating machinery fault diagnosis method based on a deep residual convolutional neural network. Granted date: 2021-08-20.
+* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network. Granted date: 2021-03-30.
+* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network. Granted date: 2021-01-26.
 
- 
 ## <b>Honors & Awards</b>
 * * *
+* 2021 Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”
 * Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
 * National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
 * First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
