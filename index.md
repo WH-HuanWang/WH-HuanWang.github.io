@@ -45,9 +45,9 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
 
-
+* <b>16. </b>Yuxiang Wei, and <b>Huan Wang*</b>." Mixed-type Wafer Defect Pattern Recognition Framework based on Multi-Faceted Dynamic Convolution", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>15. Huan Wang</b>, Zhiliang Liu*, and Ting Ai. "Long-range Dependencies Learning Based on Non-Local 1D-Convolutional Neural Network for Rolling Bearing Fault Diagnosis", <b>Journal of Dynamics, Monitoring and Diagnostics, 2022, [[PDF]](https://ojs.istp-press.com/dmd)</b>.
-* <b>14. </b>Yuxiang Wei, and <b>Huan Wang*</b>. "Mixed-Type Wafer Defect Recognition with Multi-Scale Information Fusion Transformer", <b>IEEE Transactions on Semiconductor Manufacturing, 2022, IF 2.874, [[PDF]](https://ieeexplore.ieee.org/)</b>.
+* <b>14. </b>Yuxiang Wei, and <b>Huan Wang*</b>. "Mixed-Type Wafer Defect Recognition with Multi-Scale Information Fusion Transformer", <b>IEEE Transactions on Semiconductor Manufacturing, 2022, IF 2.874, [[PDF]](https://ieeexplore.ieee.org/document/9728745)</b>.
 * <b>13. Huan Wang</b>, Tianli Men, and Yan-Fu Li*. "Transformer for High-Speed Train Wheel Wear Prediction with Multiplex Local-Global Temporal Fusion", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9721893)</b>.
 * <b>12. Huan Wang</b>, Zhiliang Liu*,Yipei Ge, and Dandan Peng. "Self-Supervised Signal Representation Learning for Machinery Fault Diagnosis under Limited Annotation Data", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705121010996)</b>.
 * <b>11. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Zhe Cheng. "Attention-Guided Joint Learning CNN with Noise Robustness for Bearing Fault Diagnosis and Vibration Signal Denoising", <b>ISA Transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0019057821005991)</b>.
