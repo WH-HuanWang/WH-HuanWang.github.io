@@ -107,3 +107,15 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
 * 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
 * Third Prize in the challenge on segmentation of bladder MRI images in the 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+
+## <b>Professional Activities</b>
+* * *
+### &nbsp;&nbsp;&nbsp; <b>Journal Reviews</b>
+
+* IEEE Transactions on Neural Networks and Learning Systems
+* IEEE Transactions on Industrial Informatics
+* IEEE Transactions on Reliability
+* IEEE Transactions on Semiconductor Manufacturing
+* Reliability Engineering & System Safety
+* Neurocomputing
+* Measurement
