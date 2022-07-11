@@ -45,6 +45,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
 
+* <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.8827, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>16. </b>Yuxiang Wei, and <b>Huan Wang*</b>." Mixed-type Wafer Defect Pattern Recognition Framework based on Multi-Faceted Dynamic Convolution", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 4.016, [[PDF]](https://ieeexplore.ieee.org/document/9783021)</b>.
 * <b>15. Huan Wang</b>, Zhiliang Liu*, and Ting Ai. "Long-range Dependencies Learning Based on Non-Local 1D-Convolutional Neural Network for Rolling Bearing Fault Diagnosis", <b>Journal of Dynamics, Monitoring and Diagnostics, 2022, [[PDF]](https://ojs.istp-press.com/dmd/article/view/53)</b>.
