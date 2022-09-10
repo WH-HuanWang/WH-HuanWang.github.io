@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: Let you know me and my research better.
+description: I focus on efficient and robust artificial intelligence for intelligent complex electromechanical system diagnosis.
 ---
 
 <table border="0">
