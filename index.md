@@ -20,11 +20,16 @@ description: I focus on efficient and robust artificial intelligence for intelli
   </tr>
 </table>
 
+## <b>Biographical</b>
+* * *
+I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for intelligent complex electromechanical system diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 15 SCI journal papers. I have obtained a number of invention patents.In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University and the Outstanding Graduate of Sichuan Province.
+
+
 ## <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 * * *
-* Deep Learning, Pattern Recognition, Signal Analysis;
+* Deep Learning, Artificial Intelligence, Brain-Inspired Neural Network, Signal Analysis;
 * Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
-* Rotating Machinery, High-Speed Train, Semiconductor Manufacturing, Unmanned Systems, Medical Information Analysis.
+* Rotating Machinery, High-Speed Train, Semiconductor Manufacturing, Autonomous Vehicle, Lithium-ion Batteries, Medical Information Analysis.
 
 ## <b>Education and Experience</b>
 * * *
