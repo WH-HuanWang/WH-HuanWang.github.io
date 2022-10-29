@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: I focus on efficient and robust artificial intelligence for intelligent complex electromechanical system diagnosis.
+description: I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis.
 ---
 
 <table border="0">
@@ -50,6 +50,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
 
+* <b>19. </b>Yitian Wang, Yuxiang Wei, <b>Huan Wang*</b>."A Class Imbalanced Wafer Defect Classification Framework Based on Variational Autoencoder Generative Adversarial Network", <b>Measurement Science and Technology, 2022, IF 2.398, [[PDF]](https://iopscience.iop.org/journal/0957-0233)</b>.
 * <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.883, [[PDF]](https://ieeexplore.ieee.org/document/9847568)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9825673)</b>.
 * <b>16. </b>Yuxiang Wei, and <b>Huan Wang*</b>." Mixed-type Wafer Defect Pattern Recognition Framework based on Multi-Faceted Dynamic Convolution", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9783021)</b>.
@@ -106,6 +107,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Honors & Awards</b>
 * * *
+* First Class Scholarship of Tsinghua University (综合一等奖学金), 2022
 * Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University
 * 2021 Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”
 * Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
@@ -121,10 +123,11 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 ### &nbsp;&nbsp;&nbsp; <b>Journal Reviews</b>
 
 * IEEE Transactions on Neural Networks and Learning Systems
-* IEEE Transactions on Industrial Informatics
-* IEEE Transactions on Reliability
+* IEEE Transactions on Instrumentation and Measurement
 * IEEE Transactions on Semiconductor Manufacturing
+* IEEE Transactions on Industrial Informatics
 * Reliability Engineering & System Safety
+* IEEE Transactions on Reliability
 * Knowledge-Based Systems
 * ISA Transactions
 * Neurocomputing
