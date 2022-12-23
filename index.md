@@ -124,23 +124,6 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
 * Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
 
-<table border="0">
-  <tr>
-    <td width="25%">
-      <img src="image/WangHuan.jpg" width="100%">
-    </td>
-    <td width="25%">
-      <img src="image/WangHuan.jpg" width="100%">
-    </td>
-    <td width="25%">
-      <img src="image/WangHuan.jpg" width="100%">
-    </td>
-    <td width="25%">
-      <img src="image/WangHuan.jpg" width="100%">
-    </td>
-  </tr>
-</table>
-
 ## <b>Professional Activities</b>
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Journal Reviews</b>
