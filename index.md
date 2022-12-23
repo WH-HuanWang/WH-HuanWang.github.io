@@ -142,7 +142,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Other Services</b>
 
-* Web Master of 2nd International Workshop on Reliability of Autonomous Intelligent Systems, [[RAIS 2022]](https://rais-workshop.github.io/), Co-located with ISSRE 2022.
+* Web Master of 2nd International Workshop on Reliability of Autonomous Intelligent Systems, [RAIS 2022](https://rais-workshop.github.io/), Co-located with ISSRE 2022.
 * Head of Intelligent Star student research team of UESTC, it has been publicized and reported on school and college websites for many times (Chinese [[News Link-1]](https://news.uestc.edu.cn/?n=UestcNews.Front.DocumentV2.ArticlePage&Id=81320), [[News Link-2]](https://www.gla.uestc.edu.cn/info/1083/11045.htm), and [[News Link-3]](https://www.gla.uestc.edu.cn/info/1083/9935.htm)).
 * IEEE Reliability Society Beijing Chapter, Academic activity notification and organization.
 
