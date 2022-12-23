@@ -22,7 +22,7 @@ description: I focus on efficient and robust artificial intelligence for complex
 
 ## <b>Biographical</b>
 * * *
-I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for intelligent complex electromechanical system diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 15 SCI journal papers. I have obtained a number of invention patents. In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University and the Outstanding Graduate of Sichuan Province.
+I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 15 SCI journal papers. I have obtained a number of invention patents. In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, Outstanding Paper Award of China Industrial Engineering Doctoral Forum and the Outstanding Graduate of Sichuan Province.
 
 
 ## <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
@@ -35,6 +35,9 @@ I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua Uni
 * * *
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
 Ph.D.Management Science and Engineering, Department of Industrial Engineering
+
+* <b>KU Leuven, Belgium &nbsp;&nbsp;&nbsp;[2022.12 - 2023.06]</b>   
+Visiting scholar, Supervisor: Prof. Konstantinos Gryllias
 
 * <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2018 - 2021]</b>   
 M.S. Mechanical engineering, School of mechanical and electrical engineering
@@ -85,6 +88,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
 
+* <b>14. </b>Pei Yang,<b>Huan Wang*</b>. "Regional Saliency Map Attack for Medical Image Segmentation", 2022 IEEE International Conference on Image Processing <b>(ICIP 2022)</b>.
 * <b>13. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
 * <b>12. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
 * <b>11. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
@@ -107,16 +111,35 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Honors & Awards</b>
 * * *
+* Third Prize of Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products
+* Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛最佳论文奖)
 * First Class Scholarship of Tsinghua University (综合一等奖学金), 2022
-* Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University
-* 2021 Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”
+* Best Applied Paper Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
+* 2021 Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
 * Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
 * National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
 * First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
 * Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
 * Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
 * 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
-* Third Prize in the challenge on segmentation of bladder MRI images in the 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+* Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+
+<table border="0">
+  <tr>
+    <td width="25%">
+      <img src="image/WangHuan.jpg" width="100%">
+    </td>
+    <td width="25%">
+      <img src="image/WangHuan.jpg" width="100%">
+    </td>
+    <td width="25%">
+      <img src="image/WangHuan.jpg" width="100%">
+    </td>
+    <td width="25%">
+      <img src="image/WangHuan.jpg" width="100%">
+    </td>
+  </tr>
+</table>
 
 ## <b>Professional Activities</b>
 * * *
