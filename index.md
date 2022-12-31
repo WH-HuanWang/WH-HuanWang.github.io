@@ -111,7 +111,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Honors & Awards</b>
 * * *
-* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字车辆大赛的二等奖-动力电池安全风险评估与故障预警)
+* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛的二等奖-动力电池安全风险评估与故障预警)
 * Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛三等奖-工业品表面缺陷检测)
 * Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
 * First Class Scholarship of Tsinghua University (综合一等奖学金), 2022
