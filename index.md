@@ -111,11 +111,12 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Honors & Awards</b>
 * * *
-* Third Prize of Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products
-* Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛最佳论文奖)
+* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字车辆大赛的二等奖-动力电池安全风险评估与故障预警)
+* Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛三等奖-工业品表面缺陷检测)
+* Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
 * First Class Scholarship of Tsinghua University (综合一等奖学金), 2022
 * Best Applied Paper Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
-* 2021 Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
+* 2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
 * Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
 * National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
 * First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
