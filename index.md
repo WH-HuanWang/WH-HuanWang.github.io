@@ -134,6 +134,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * IEEE Transactions on Semiconductor Manufacturing
 * IEEE Transactions on Industrial Informatics
 * Reliability Engineering & System Safety
+* Artificial Intelligence in Medicine
 * IEEE Transactions on Reliability
 * Knowledge-Based Systems
 * ISA Transactions
