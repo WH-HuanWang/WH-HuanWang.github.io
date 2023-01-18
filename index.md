@@ -22,7 +22,7 @@ description: I focus on efficient and robust artificial intelligence for complex
 
 ## <b>Biographical</b>
 * * *
-I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 15 SCI journal papers. I have obtained a number of invention patents. In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, Outstanding Paper Award of China Industrial Engineering Doctoral Forum and the Outstanding Graduate of Sichuan Province.
+I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 20 SCI journal papers. I have obtained a number of invention patents. In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, Outstanding Paper Award of China Industrial Engineering Doctoral Forum and the Outstanding Graduate of Sichuan Province.
 
 
 ## <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
@@ -34,7 +34,7 @@ I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua Uni
 ## <b>Education and Experience</b>
 * * *
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
-Ph.D.Management Science and Engineering, Department of Industrial Engineering
+Ph.D. Management Science and Engineering, Department of Industrial Engineering
 
 * <b>KU Leuven, Belgium &nbsp;&nbsp;&nbsp;[2022.12 - 2023.06]</b>   
 Visiting scholar, Supervisor: Prof. Konstantinos Gryllias
@@ -52,9 +52,9 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 ## <b>Selected Journal Articles</b>
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
-
-* <b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
-* <b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
+##
+<b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
+<b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
 * <b>19. </b>Yitian Wang, Yuxiang Wei, <b>Huan Wang*</b>."A Class Imbalanced Wafer Defect Classification Framework Based on Variational Autoencoder Generative Adversarial Network", <b>Measurement Science and Technology, 2022, IF 2.398, [[PDF]](https://iopscience.iop.org/journal/0957-0233)</b>.
 * <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.883, [[PDF]](https://ieeexplore.ieee.org/document/9847568)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9825673)</b>.
