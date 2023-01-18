@@ -52,9 +52,12 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 ## <b>Selected Journal Articles</b>
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
-## <div class="center-text"> <b>2023-2024</b></div>
+
+### &nbsp;&nbsp;&nbsp;<b>2023-2024</b>
 * <b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
 * <b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
+
+### &nbsp;&nbsp;&nbsp;<b>2022-2023</b>
 * <b>19. </b>Yitian Wang, Yuxiang Wei, <b>Huan Wang*</b>."A Class Imbalanced Wafer Defect Classification Framework Based on Variational Autoencoder Generative Adversarial Network", <b>Measurement Science and Technology, 2022, IF 2.398, [[PDF]](https://iopscience.iop.org/journal/0957-0233)</b>.
 * <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.883, [[PDF]](https://ieeexplore.ieee.org/document/9847568)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9825673)</b>.
@@ -62,6 +65,8 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>15. Huan Wang</b>, Zhiliang Liu*, and Ting Ai. "Long-range Dependencies Learning Based on Non-Local 1D-Convolutional Neural Network for Rolling Bearing Fault Diagnosis", <b>Journal of Dynamics, Monitoring and Diagnostics, 2022, [[PDF]](https://ojs.istp-press.com/dmd/article/view/53)</b>.
 * <b>14. </b>Yuxiang Wei, and <b>Huan Wang*</b>. "Mixed-Type Wafer Defect Recognition with Multi-Scale Information Fusion Transformer", <b>IEEE Transactions on Semiconductor Manufacturing, 2022, IF 2.796, [[PDF]](https://ieeexplore.ieee.org/document/9728745)</b>.
 * <b>13. Huan Wang</b>, Tianli Men, and Yan-Fu Li*. "Transformer for High-Speed Train Wheel Wear Prediction with Multiplex Local-Global Temporal Fusion", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9721893)</b>.
+
+### &nbsp;&nbsp;&nbsp;<b>2021-2022</b>
 * <b>12. Huan Wang</b>, Zhiliang Liu*,Yipei Ge, and Dandan Peng. "Self-Supervised Signal Representation Learning for Machinery Fault Diagnosis under Limited Annotation Data", <b>Knowledge-Based Systems, 2021, IF 8.139, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705121010996)</b>.
 * <b>11. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Zhe Cheng. "Attention-Guided Joint Learning CNN with Noise Robustness for Bearing Fault Diagnosis and Vibration Signal Denoising", <b>ISA Transactions, 2021, IF 5.911, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0019057821005991)</b>.
 * <b>10. </b>Zuhao Liu,<b>Huan Wang*</b>, Yibo Gao, and Shunchen Shi. "Automatic Attention Learning Using Neural Architecture Search for Detection of Cardiac Abnormality in 12-lead ECG", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9526630)</b>.
@@ -70,6 +75,8 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>7. </b>Lang Qin, Yuntao Xie, Xinwen Liu, Xiangchi Yuan, and <b>Huan Wang*</b>. "An End-to-End 12-Leading Electrocardiogram Diagnosis System Based on Deformable Convolutional Neural Network With Good Antinoise Ability", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9406046/)</b>.
 * <b>6. </b>Yibo Gao, <b>Huan Wang*</b>, and Zuhao Liu. "An End-to-end Atrial Fibrillation Detection by a Novel Residual-based Temporal Attention Convolutional Neural Network with Exponential Nonlinearity Loss", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307188)</b>.
 * <b>5. </b>Haoran Han#, <b>Huan Wang#</b>, Zhiliang Liu*, and Jiayi Wang. "Intelligent Vibration Signal Denoising Method based on Non-local Fully Convolutional Neural Network for Rolling Bearings", <b>ISA transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002196)</b>.
+
+### &nbsp;&nbsp;&nbsp;<b>2019-2021</b>
 * <b>4. </b>Dandan Peng#, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, and Chen Jian. "Multibranch and Multiscale CNN for Fault Diagnosis of Wheelset Bearings Under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 11.648, [[PDF]](https://ieeexplore.ieee.org/document/8962243)</b>.
 * <b>3. </b>Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, and Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9178459)</b>.
 * <b>2. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Yong Qin. "Understanding and Learning Discriminant Features based on Multiattention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 11.648, [[PDF]](https://ieeexplore.ieee.org/document/8911240)</b>.
