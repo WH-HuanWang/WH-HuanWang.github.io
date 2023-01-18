@@ -53,11 +53,11 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
 
-### &nbsp;&nbsp;&nbsp;<b>2023-2024</b>
+### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
 * <b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
 * <b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
 
-### &nbsp;&nbsp;&nbsp;<b>2022-2023</b>
+### &nbsp;&nbsp;&nbsp; <b>2022-2023</b>
 * <b>19. </b>Yitian Wang, Yuxiang Wei, <b>Huan Wang*</b>."A Class Imbalanced Wafer Defect Classification Framework Based on Variational Autoencoder Generative Adversarial Network", <b>Measurement Science and Technology, 2022, IF 2.398, [[PDF]](https://iopscience.iop.org/journal/0957-0233)</b>.
 * <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.883, [[PDF]](https://ieeexplore.ieee.org/document/9847568)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9825673)</b>.
@@ -66,7 +66,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>14. </b>Yuxiang Wei, and <b>Huan Wang*</b>. "Mixed-Type Wafer Defect Recognition with Multi-Scale Information Fusion Transformer", <b>IEEE Transactions on Semiconductor Manufacturing, 2022, IF 2.796, [[PDF]](https://ieeexplore.ieee.org/document/9728745)</b>.
 * <b>13. Huan Wang</b>, Tianli Men, and Yan-Fu Li*. "Transformer for High-Speed Train Wheel Wear Prediction with Multiplex Local-Global Temporal Fusion", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9721893)</b>.
 
-### &nbsp;&nbsp;&nbsp;<b>2021-2022</b>
+### &nbsp;&nbsp;&nbsp; <b>2021-2022</b>
 * <b>12. Huan Wang</b>, Zhiliang Liu*,Yipei Ge, and Dandan Peng. "Self-Supervised Signal Representation Learning for Machinery Fault Diagnosis under Limited Annotation Data", <b>Knowledge-Based Systems, 2021, IF 8.139, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0950705121010996)</b>.
 * <b>11. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Zhe Cheng. "Attention-Guided Joint Learning CNN with Noise Robustness for Bearing Fault Diagnosis and Vibration Signal Denoising", <b>ISA Transactions, 2021, IF 5.911, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0019057821005991)</b>.
 * <b>10. </b>Zuhao Liu,<b>Huan Wang*</b>, Yibo Gao, and Shunchen Shi. "Automatic Attention Learning Using Neural Architecture Search for Detection of Cardiac Abnormality in 12-lead ECG", <b>IEEE Transactions on Instrumentation and Measurement, 2021, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9526630)</b>.
@@ -76,7 +76,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>6. </b>Yibo Gao, <b>Huan Wang*</b>, and Zuhao Liu. "An End-to-end Atrial Fibrillation Detection by a Novel Residual-based Temporal Attention Convolutional Neural Network with Exponential Nonlinearity Loss", <b>Knowledge-Based Systems, 2021, IF 8.038, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0950705120307188)</b>.
 * <b>5. </b>Haoran Han#, <b>Huan Wang#</b>, Zhiliang Liu*, and Jiayi Wang. "Intelligent Vibration Signal Denoising Method based on Non-local Fully Convolutional Neural Network for Rolling Bearings", <b>ISA transactions, 2021, IF 5.468, [[PDF]](https://www.sciencedirect.com/science/article/abs/pii/S0019057821002196)</b>.
 
-### &nbsp;&nbsp;&nbsp;<b>2019-2021</b>
+### &nbsp;&nbsp;&nbsp; <b>2019-2021</b>
 * <b>4. </b>Dandan Peng#, <b>Huan Wang#</b>, Zhiliang Liu*, Zijiang Liu, Ming J. Zuo, and Chen Jian. "Multibranch and Multiscale CNN for Fault Diagnosis of Wheelset Bearings Under Strong Noise and Variable Load Condition", <b>IEEE Transactions on Industrial Informatics, 2020, IF 11.648, [[PDF]](https://ieeexplore.ieee.org/document/8962243)</b>.
 * <b>3. </b>Zhiliang Liu, <b>Huan Wang* </b>, Junjie Liu, Yong Qin*, and Dandan Peng. "Multi-task Learning Based on Lightweight 1DCNN for Fault Diagnosis of Wheelset Bearings", <b> IEEE Transactions on Instrumentation and Measurement, 2020. IF: 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9178459)</b>.
 * <b>2. Huan Wang</b>, Zhiliang Liu*, Dandan Peng, and Yong Qin. "Understanding and Learning Discriminant Features based on Multiattention 1DCNN for Wheelset Bearing Fault Diagnosis", <b>IEEE Transactions on Industrial Informatics, 2019, IF 11.648, [[PDF]](https://ieeexplore.ieee.org/document/8911240)</b>.
@@ -87,43 +87,41 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Prognostics and System Health Management</b>
 
-* <b>7. </b>Yizhuo Yang, <b>Huan Wang* </b>, Zhiliang Liu*, Zeyu Yang. "Few-shot Learning for Rolling Bearing Fault Diagnosis Via Siamese Two-dimensional Convolutional Neural Network", 2020 11th International Conference on Prognostics and System Health Management <b>(PHM-2020 Jinan)</b>.
-* <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
-* <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
-* <b>4. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", 2020 International Conference on Sensing,Diagnostics, Prognostics, and Control <b>(SDPC 2020)</b>.
-* <b>3. </b>Yijia Hao, <b>Huan Wang* </b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", 9th Asia-Pacific International Symposium on Advanced Reliability and Maintenance Modelling <b>(APARM 2020)</b>.
-* <b>2. </b>Tongrui Xu, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao,"Machinery Fault Diagnosis Using Recurrent Neural Network: A Review", 2020 Prognostics and System Health Management Conference <b>(PHM-Shanghai-2020)</b>.
-* <b>1. </b>Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", 2019 Prognostics & System Health Management Conference <b>(PHM-Qingdao 2019)</b>.
+* <b>7. </b>Yizhuo Yang, <b>Huan Wang* </b>, Zhiliang Liu*, Zeyu Yang. "Few-shot Learning for Rolling Bearing Fault Diagnosis Via Siamese Two-dimensional Convolutional Neural Network", <b>(PHM-2020 Jinan)</b>.
+* <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", <b>(APARM 2020)</b>.
+* <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", <b>(PHM-Shanghai-2020)</b>.
+* <b>4. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal",  <b>(SDPC 2020)</b>.
+* <b>3. </b>Yijia Hao, <b>Huan Wang* </b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", <b>(APARM 2020)</b>.
+* <b>2. </b>Tongrui Xu, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao,"Machinery Fault Diagnosis Using Recurrent Neural Network: A Review",<b>(PHM-Shanghai-2020)</b>.
+* <b>1. </b>Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", <b>(PHM-Qingdao 2019)</b>.
 
 ### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
 
-* <b>14. </b>Pei Yang,<b>Huan Wang*</b>. "Regional Saliency Map Attack for Medical Image Segmentation", 2022 IEEE International Conference on Image Processing <b>(ICIP 2022)</b>.
-* <b>13. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>12. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>11. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>10. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>9. </b>Yibo Gao#,<b>Huan Wang#</b>, Xinglong Liu, Ning Huang, Guotai Wang*, Shaoting Zhang. "A Denoising Self-Supervised Approach for COVID-19 Pneumonia Lesion Segmentation with Limited Annotated CT Images", 43rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2021)</b>.
-* <b>8. </b>Haoyang Wu#, <b>Huan Wang# </b>,Hao He, Zixiao He, Guotai Wang*. "A Novel Weakly Supervised Framework Based On Noisy-Label Learning For Medical Image Segmentation", 2021 IEEE International Symposium on Biomedical Imaging (ISBI) <b>(ISBI 2021)</b>.
-* <b>7. </b>Zuhao Liu, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", the 23rd International Conference on Medical Image Computing and Computer Assisted Intervention <b>(MICCAI 2020)</b>.
-* <b>6. </b>Zuhao Liu, <b>Huan Wang# </b>, Wenhui Lei, Guotai Wang*. "CSAF-CNN: Cross-layer Spatial Attention Map Fusion Network for Organ-at-risk Segmentation in Head and Neck CT Images", 2020 IEEE International Symposium on Biomedical Imaging <b>(ISBI 2020)</b>.
-* <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", 42rd Annual International Conference of the IEEE Engineering in Medicine and Biology Society <b>(EMBC 2020)</b>.
-* <b>4. Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019), [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_50.pdf)</b>.
-* <b>3. Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", Brainlesion: Glioma, Multiple Sclerosis, Stroke and Traumatic Brain Injuries <b>(BrainLes 2019)</b>.
-* <b>2. Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", 10th International Workshop on Machine Learning in Medical Imaging <b>(MLMI 2019)</b>.
-* <b>1. Huan Wang</b>, Ran Gu#, Zhongyu Li*. "Automated Segmentation of Intervertebral Disc Using Fully Dilated Separable Deep Neural Networks", Computational Methods and Clinical Applications for Spine Imaging <b>(CSI 2018)</b>.
+* <b>11. </b>Pei Yang,<b>Huan Wang*</b>. "Regional Saliency Map Attack for Medical Image Segmentation", <b>(ICIP 2022)</b>.
+* <b>10. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", <b>(EMBC 2021)</b>.
+* <b>9. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", <b>(EMBC 2021)</b>.
+* <b>8. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", <b>(EMBC 2021)</b>.
+* <b>7. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", <b>(EMBC 2021)</b>.
+* <b>6. </b>Zuhao Liu#, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", <b>(MICCAI 2020)</b>.
+* <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", <b>(EMBC 2020)</b>.
+* <b>4. Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", <b>(MLMI 2019), [[PDF]](https://link.springer.com/content/pdf/10.1007%2F978-3-030-32692-0_50.pdf)</b>.
+* <b>3. Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", <b>(BrainLes 2019)</b>.
+* <b>2. Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", <b>(MLMI 2019)</b>.
+* <b>1. Huan Wang</b>, Ran Gu#, Zhongyu Li*. "Automated Segmentation of Intervertebral Disc Using Fully Dilated Separable Deep Neural Networks", <b>(CSI 2018)</b>.
 
 ## <b>Chinese Invention Patents</b>
 * * *
-* Zhiliang Liu, Dandan Peng, <b>Huan Wang</b>, The rotating machinery fault diagnosis method based on a deep residual convolutional neural network. Granted date: 2021-08-20.
-* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network. Granted date: 2021-03-30.
-* Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network. Granted date: 2021-01-26.
+
+* <b>3. </b>Zhiliang Liu, Dandan Peng, <b>Huan Wang</b>, The rotating machinery fault diagnosis method based on a deep residual convolutional neural network. Granted date: 2021-08-20.
+* <b>2. </b>Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network. Granted date: 2021-03-30.
+* <b>1. </b>Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network. Granted date: 2021-01-26.
 
 ## <b>Honors & Awards</b>
 * * *
-* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛的二等奖-动力电池安全风险评估与故障预警)
+* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
 * Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛三等奖-工业品表面缺陷检测)
 * Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
-* First Class Scholarship of Tsinghua University (综合一等奖学金), 2022
+* First Class Scholarship of Tsinghua University (清华大学综合一等奖学金), 2022
 * Best Applied Paper Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
 * 2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
 * Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
