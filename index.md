@@ -51,10 +51,10 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## <b>Selected Journal Articles</b>
 * * *
-#### &nbsp;&nbsp;&nbsp; <b>Remark:</b> # means equal contribution; * means corresponding author.
-##
-*<b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
-*<b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
+#### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
+###2023-2024
+* <b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/journal/reliability-engineering-and-system-safety/)</b>.
+* <b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/journal/journal-of-energy-storage)</b>.
 * <b>19. </b>Yitian Wang, Yuxiang Wei, <b>Huan Wang*</b>."A Class Imbalanced Wafer Defect Classification Framework Based on Variational Autoencoder Generative Adversarial Network", <b>Measurement Science and Technology, 2022, IF 2.398, [[PDF]](https://iopscience.iop.org/journal/0957-0233)</b>.
 * <b>18. Huan Wang</b>, and Yan-Fu Li*."Robust Mechanical Fault Diagnosis with Noisy Label Based on Multi-Stage True Label  Distribution Learning", <b>IEEE Transactions on Reliability, 2022, IF 5.883, [[PDF]](https://ieeexplore.ieee.org/document/9847568)</b>.
 * <b>17. Huan Wang</b>, and Yan-Fu Li*."Iterative Error Self-Correction for Robust Fault Diagnosis of Mechanical Equipment with Noisy Label", <b>IEEE Transactions on Instrumentation and Measurement, 2022, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/document/9825673)</b>.
