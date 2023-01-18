@@ -25,13 +25,13 @@ description: I focus on efficient and robust artificial intelligence for complex
 I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I obtained my undergraduate degree and master's degree in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. I used to have deep research in medical information processing, especially medical image analysis and electrocardiogram diagnosis. Now I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis. I have a strong interest and deep research foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. I am good at using efficient and credible artificial intelligence algorithms to solve and meet real industrial problems and needs. At present, I have published more than 30 academic papers, including more than 20 SCI journal papers. I have obtained a number of invention patents. In addition, I won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, Outstanding Paper Award of China Industrial Engineering Doctoral Forum and the Outstanding Graduate of Sichuan Province.
 
 
-## <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
+## &nbsp; <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
 * * *
 * Deep Learning, Artificial Intelligence, Brain-Inspired Neural Network, Signal Analysis;
 * Prognostics and System Health Management, Machinery Fault Diagnosis, Remaining Useful Life Estimation;
 * Rotating Machinery, High-Speed Train, Semiconductor Manufacturing, Autonomous Vehicle, Lithium-ion Batteries, Medical Information Analysis.
 
-## <b>Education and Experience</b>
+## &nbsp; <b>Education and Experience</b>
 * * *
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
 Ph.D. Management Science and Engineering, Department of Industrial Engineering
@@ -49,7 +49,7 @@ Software development and entrepreneurship
 B.S. Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
 
 
-## <b>Selected Journal Articles</b>
+## &nbsp; <b>Selected Journal Articles</b>
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
 
@@ -83,7 +83,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>1. </b>Dandan Peng, Zhiliang Liu*, <b>Huan Wang</b>, Yong Qin, and Limin Jia. "A Novel Deeper One-dimensional CNN with Residual Learning for Fault Diagnosis of Wheelset Bearings in High Speed Trains", <b>IEEE Access, 2018, IF 3.476, [[PDF]](https://ieeexplore.ieee.org/document/8584445)</b>.
 
 
-## <b>Selected Conference Articles</b>
+## &nbsp; <b>Selected Conference Articles</b>
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Prognostics and System Health Management</b>
 
@@ -109,7 +109,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>2. Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", <b>MLMI 2019</b>.
 * <b>1. Huan Wang</b>, Ran Gu#, Zhongyu Li*. "Automated Segmentation of Intervertebral Disc Using Fully Dilated Separable Deep Neural Networks", <b>CSI 2018</b>.
 
-## <b>Chinese Invention Patents</b>
+## &nbsp; <b>Chinese Invention Patents</b>
 * * *
 * <b>9. </b>Yan-Fu Li, <b>Huan Wang</b>, Method, device and device for correcting sensor signals of autonomous driving vehicles (自动驾驶汽车上传感器的检测信号校正方法、装置和设备), Patent-pending.
 * <b>8. </b>Yan-Fu Li, <b>Huan Wang</b>, Vehicle sensor health state monitoring method, device and computer equipment (车辆传感器健康状态监测方法、装置和计算机设备), Patent-pending.
@@ -121,7 +121,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * <b>2. </b>Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The rolling bearing fault diagnosis method based on multi-branch multi-scale convolution neural network (基于多分支多尺度卷积神经网络的滚动轴承故障诊断方法). 
 * <b>1. </b>Zhiliang Liu, <b>Huan Wang</b>, Dandan Peng, Yijia Hao, Junhao Zhang, The Rotating machinery fault diagnosis method based on multi-attention convolutional neural network (基于多注意力卷积神经网络的旋转机械故障诊断方法).
 
-## <b>Honors & Awards</b>
+## &nbsp; <b>Honors & Awards</b>
 * * *
 * Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
 * Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛三等奖-工业品表面缺陷检测)
@@ -137,7 +137,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
 * Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
 
-## <b>Professional Services</b>
+## &nbsp; <b>Professional Services</b>
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Journal Reviews</b>
 
