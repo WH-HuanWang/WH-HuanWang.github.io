@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: I focus on efficient and robust artificial intelligence for complex electromechanical system intelligent diagnosis.
+description: I focus on developing robust and trusted artificial intelligence algorithms for intelligent diagnosis of complex electromechanical systems.
 ---
 
 <table border="0">
@@ -22,7 +22,7 @@ description: I focus on efficient and robust artificial intelligence for complex
 
 ## &nbsp; <b>Biography</b>
 * * *
-> I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I received my undergraduate and master's degrees in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. Previously, I conducted in-depth research in medical information processing, focusing on medical image analysis and electrocardiogram diagnosis. Currently, my research interests lie in developing efficient and robust artificial intelligence solutions for complex electromechanical systems' intelligent diagnosis. I have a solid foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. My expertise lies in efficiently and reliably applying artificial intelligence algorithms to solve real industrial problems.
+> I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I received my undergraduate and master's degrees in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. Previously, I conducted in-depth research in medical information processing, focusing on medical image analysis and electrocardiogram diagnosis. Currently, my research interests lie in developing robust and trusted artificial intelligence solutions for complex electromechanical systems' intelligent diagnosis. I have a solid foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. My expertise lies in efficiently and reliably applying artificial intelligence algorithms to solve real industrial problems.
 To date, I have published more than 30 academic papers, including more than 20 SCI journal papers, and obtained several invention patents. Furthermore, I have been recognized for my contributions to the field, having won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, the Outstanding Paper Award of the China Industrial Engineering Doctoral Forum, and the Outstanding Graduate of Sichuan Province.
 
 
