@@ -55,6 +55,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
 
 ### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
+* <b>23. </b>Wenjun Luo and <b>Huan Wang*</b>."Composite Wafer Defect Recognition Framework based on Multi-View Dynamic Feature Enhancement with Class-Specific Classifier", <b>IEEE Transactions on Instrumentation and Measurement, 2023, IF 5.332, [[PDF]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=19)</b>.
 * <b>22. </b>Yuxiang Wei and <b>Huan Wang*</b>."Wavelet integrated attention network with multi-resolution frequency learning for mixed-type wafer defect recognition", <b>Engineering Applications of Artificial Intelligence, 2023, IF 7.802, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0952197623001598)</b>.
 * <b>21. Huan Wang</b> and Yan-Fu Li*."Bioinspired Membrane Learnable Spiking Neural Network  for Autonomous Vehicle Sensors Fault Diagnosis under Open Environments", <b>Reliability Engineering and System Safety, 2023, IF 7.247, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0951832023000170)</b>.
 * <b>20. </b>Yipu Wang and <b>Huan Wang*</b>."Wavelet Attention-Powered Neural Network Framework  with Hierarchical Dynamic Frequency Learning for Lithium-ion Battery State of Health Prediction", <b>Journal of Energy Storage, 2023, IF 8.907, [[PDF]](https://www.sciencedirect.com/science/article/pii/S2352152X23000944)</b>.
