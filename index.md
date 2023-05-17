@@ -56,7 +56,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
 
-* <b>27. Yan-Fu Li*</b>, Huan Wang* and Muxia Sun."ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps", <b>ArXiv Preprint, 2023, [[PDF]](https://arxiv.org/abs/2305.06472)</b>.
+* <b>27. </b>Yan-Fu Li*, <b>Huan Wang*</b> and Muxia Sun."ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps", <b>ArXiv Preprint, 2023, [[PDF]](https://arxiv.org/abs/2305.06472)</b>.
 * <b>26. Huan Wang</b>, Muxia Sun* and Yan-Fu Li."A Brain-Inspired Spiking Network Framework Based on Multi-Time-Step Self-Attention for Lithium-ion Batteries Capacity Prediction", <b>IEEE Transactions on Consumer Electronics, 2023, IF 4.414, [[PDF]](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)</b>.
 * <b>25. Huan Wang</b>, Yan-Fu Li* and Jianliang Ren."Machine Learning for Fault Diagnosis of High-Speed Train Traction Systems: A Review", <b>Frontiers of Engineering Management, 2023, [[PDF]](https://journal.hep.com.cn/fem/EN/10.1007/s42524-023-0256-2)</b>.
 * <b>24. Huan Wang</b>, Zhiliang Liu*, Dandan Peng and Ming J. Zuo."Interpretable Convolutional Neural Network with Multilayer Wavelet for Noise-Robust Machinery Fault Diagnosis", <b>Mechanical Systems and Signal Processing, 2023, IF 8.934, [[PDF]](https://www.sciencedirect.com/science/article/pii/S0888327023002212)</b>.
