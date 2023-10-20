@@ -117,21 +117,21 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Honors & Awards</b>
 * * *
-* 15. First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
-* 14. 2023 China-Japan Friendship NSK Mechanical Engineering <b> Outstanding Paper Award</b> (2023年中日友好NSK机械工学优秀论文奖)
-* 13. Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
-* 12. Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛优胜奖-工业品表面缺陷检测)
-* 11. <b> Outstanding Paper Award </b> of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
-* 10. First Class Scholarship of Tsinghua University,Samsung Scholarship (清华大学综合一等奖学金, 三星奖学金), 2022
-* 9. <b>Best Applied Paper </b> Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
-* 8. 2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
-* 7. Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
-* 6. National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
-* 5. First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
-* 4. Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
-* 3. Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
-* 2. 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
-* 1. Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+* <b>15. </b>First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
+* <b>14. </b>2023 China-Japan Friendship NSK Mechanical Engineering <b> Outstanding Paper Award</b> (2023年中日友好NSK机械工学优秀论文奖)
+* <b>13. </b>Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
+* <b>12. </b>Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛优胜奖-工业品表面缺陷检测)
+* <b>11. </b><b> Outstanding Paper Award </b> of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
+* <b>10. </b>First Class Scholarship of Tsinghua University,Samsung Scholarship (清华大学综合一等奖学金, 三星奖学金), 2022
+* <b>9. </b><b>Best Applied Paper </b> Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
+* <b>8. </b>2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
+* <b>7. </b>Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
+* <b>6. </b>National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
+* <b>5. </b>First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
+* <b>4. </b>Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
+* <b>3. </b>Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
+* <b>2. </b>2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
+* <b>1. </b>Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
 
 ## &nbsp; <b>Professional Services</b>
 * * *
