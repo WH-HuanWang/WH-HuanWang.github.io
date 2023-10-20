@@ -37,7 +37,7 @@ To date, I have published more than 30 academic papers, including more than 20 S
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
 Ph.D. Management Science and Engineering, Department of Industrial Engineering
 
-* <b>KU Leuven, Belgium &nbsp;&nbsp;&nbsp;[2022.12 - 2023.06]</b>   
+* <b>KU Leuven, Belgium &nbsp;&nbsp;&nbsp;[2022.12 - 2023.07]</b>   
 Visiting scholar, Supervisor: Prof. Konstantinos Gryllias
 
 * <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2018 - 2021]</b>   
@@ -55,6 +55,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
 
 ### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
+* <b>30. </b>Shicheng Pei, <b>Huan Wang*</b>, and Te Han."Time-Efficient Neural Architecture Search for Autonomous Underwater Vehicle Fault Diagnosis", <b>IEEE Transactions on Instrumentation and Measurement, 2023, IF 5.6, [[PDF]](https://ieeexplore.ieee.org)</b>.
 * <b>29. Huan Wang</b>, Yan-Fu Li*, and Ying Zhang."Bioinspired Spiking Spatiotemporal Attention Framework for Lithium-ion Batteries State-of-Health Estimation", <b>Renewable and Sustainable Energy Reviews, 2023, IF 15.9, [[PDF]](https://www.sciencedirect.com/journal/renewable-and-sustainable-energy-reviews)</b>.
 * <b>28. </b>Tianyou Bai and <b>Huan Wang*</b>."Convolutional Transformer-Based Multi-View Information Perception Framework for Lithium-ion Battery State-of-Health Estimation", <b>IEEE Transactions on Instrumentation and Measurement, 2023, IF 5.6, [[PDF]](https://ieeexplore.ieee.org/abstract/document/10198842)</b>.
 * <b>27. </b>Yan-Fu Li*, <b>Huan Wang*</b> and Muxia Sun."ChatGPT-Like Large-Scale Foundation Models for Prognostics and Health Management: A Survey and Roadmaps", <b>ArXiv Preprint, 2023, [[PDF]](https://arxiv.org/abs/2305.06472)</b>.
@@ -95,24 +96,8 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 ## &nbsp; <b>Selected Conference Articles</b>
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Prognostics and System Health Management</b>
-
-* <b>7. </b>Yizhuo Yang, <b>Huan Wang* </b>, Zhiliang Liu*, Zeyu Yang. "Few-shot Learning for Rolling Bearing Fault Diagnosis Via Siamese Two-dimensional Convolutional Neural Network", <b>PHM-2020 Jinan</b>.
-* <b>6. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao. "An Intelligence Fault Diagnosis Approach for Rolling Bearings Based on Non-local Convolutional Neural Network", <b>APARM 2020</b>.
-* <b>5. </b>Zilin Wang, <b>Huan Wang* </b>, Zhiliang Liu*, Junjie Liu,"Rolling Bearing Fault Diagnosis Using CNN-Based Attention Module and Gated Recurrent Unit", <b>PHM-Shanghai-2020</b>.
-* <b>4. </b>Haoran Han, <b>Huan Wang* </b>, Zhiliang Liu*, Zixiao He. "Non-local Denoising Convolutional Neural Network for Rolling Bearing Virbation Signal", <b>SDPC 2020</b>.
-* <b>3. </b>Yijia Hao, <b>Huan Wang* </b>, Zhiliang Liu*, Haoran Han. "Multi-Scale CNN based on Attention Mechanism for Rolling Bearing Fault Diagnosis", <b>APARM 2020</b>.
-* <b>2. </b>Tongrui Xu, <b>Huan Wang* </b>, Zhiliang Liu*, Yijia Hao,"Machinery Fault Diagnosis Using Recurrent Neural Network: A Review",<b>PHM-Shanghai-2020</b>.
-* <b>1. </b>Zhixing Zhu, <b>Huan Wang* </b>, Zhiliang Liu*, Shaoyu Meng. "Fault Diagnosis of Wheelset Bearings using Deep Bidirectional Long Short-term Memory Network", <b>PHM-Qingdao 2019</b>.
-
-### &nbsp;&nbsp;&nbsp; <b>Medical Information Analysis</b>
-
-* <b>11. </b>Pei Yang,<b>Huan Wang*</b>. "Regional Saliency Map Attack for Medical Image Segmentation", <b>ICIP 2022</b>.
-* <b>10. </b>Xinwen Liu, <b>Huan Wang*</b>, Zongjin Li. "An Approach for Deep Learning in ECG Classification Tasks in the Presence of Noisy Labels", <b>EMBC 2021</b>.
-* <b>9. </b>Zongjin Li, <b>Huan Wang*</b>, Xinwen Liu. "A One-Dimensional Siamese Few-Shot Learning Approach for ECG Classification under Limited Data", <b>EMBC 2021</b>.
-* <b>8. </b>Zixiao He, Xinwen Liu, Hao He, <b>Huan Wang*</b>. "Dual Attention Convolutional Neural Network Based on Adaptive Parametric ReLU for Denoising ECG Signals with Strong Noise", <b>EMBC 2021</b>.
-* <b>7. </b>Yuntao Xie, Qin Lang, Hongcheng Tan, Xinyang Li, Bisen Liu, <b>Huan Wang*</b>. "Automatic 12-Leading Electrocardiogram Classification Network with Deformable Convolution", <b>EMBC 2021</b>.
-* <b>6. </b>Zuhao Liu#, <b>Huan Wang# </b>, Guotai Wang, Jin Qi. "NAS-SCAM: Neural Architecture Search Based Spatial and Channel Joint Attention Module for Nuclei Semantic Segmentation and Classification", <b>MICCAI 2020</b>.
-* <b>5. </b>Yibo Gao, <b>Huan Wang* </b>, Zuhao Liu. "A Novel Approach for Atrial Fibrillation Signal Identification Based on Temporal Attention Mechanism", <b>EMBC 2020</b>.
+* <b>6. Huan Wang</b> and Yan-Fu Li*. "Large Language Model Empowered by Domain-Specific Knowledge Base for Industrial Equipment Operation and Maintenance.", <b>SRSE 2023</b>.
+* <b>5. Huan Wang</b> and Yan-Fu Li*. "Large-Scale Language Models for PHM in Railway Systems - Potential Applications, Limitations, and Solutions", <b>EITRT 2023</b>.
 * <b>4. Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", <b>MLMI 2019</b>.
 * <b>3. Huan Wang</b>, Guotai Wang*, Zijian Liu, Shaoting Zhang. "Global and Local Multi-Scale Feature Fusion Enhancement for Brain Tumor Segmentation and Pancreas Segmentation", <b>BrainLes 2019</b>.
 * <b>2. Huan Wang</b>, Guotai Wang*, Zhihan Xu, Wenhui Lei, Shaoting Zhang."High- and Low-Level Feature Enhancement for Medical Image Segmentation", <b>MLMI 2019</b>.
@@ -132,19 +117,21 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Honors & Awards</b>
 * * *
-* Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
-* Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛三等奖-工业品表面缺陷检测)
-* Outstanding Paper Award of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
-* First Class Scholarship of Tsinghua University (清华大学综合一等奖学金), 2022
-* Best Applied Paper Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
-* 2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
-* Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
-* National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
-* First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
-* Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
-* Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
-* 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
-* Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
+* 15. First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
+* 14. 2023 China-Japan Friendship NSK Mechanical Engineering <b> Outstanding Paper Award</b> (2023年中日友好NSK机械工学优秀论文奖)
+* 13. Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
+* 12. Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛优胜奖-工业品表面缺陷检测)
+* 11. <b> Outstanding Paper Award </b> of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
+* 10. First Class Scholarship of Tsinghua University,Samsung Scholarship (清华大学综合一等奖学金, 三星奖学金), 2022
+* 9. <b>Best Applied Paper </b> Award of the Quality and Reliability Annual Conference of Tsinghua University (2022年清华大学质量与可靠性研究院年会最佳应用论文奖)
+* 8. 2021 QSR Data Challenge Award Finalists of “In-Situ Quality Process Monitoring in Additive Manufacturing”, Third place
+* 7. Excellent university graduate of sichuan province (四川省优秀大学毕业生), 2020
+* 6. National Scholarship for Postgraduates (硕士研究生国家奖学金), 2020
+* 5. First Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2020
+* 4. Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2019
+* 3. Second Prize of Academic Scholarship, University of Electronic Science and Technology of China, 2018
+* 2. 2nd Runner up in the automatic structure segmentation for radiotherapy planing challenge 2019
+* 1. Third Prize of Bladder MRI Image Segmentation Challenge - 3rd International Symposium on Image Computing and Digital Medicine (ISICDM) 2019
 
 ## &nbsp; <b>Professional Services</b>
 * * *
@@ -161,6 +148,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 * ISA Transactions
 * Neurocomputing
 * Measurement
+* ......
 
 * * *
 ### &nbsp;&nbsp;&nbsp; <b>Other Services</b>
