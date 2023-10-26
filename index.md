@@ -95,7 +95,6 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Selected Conference Articles</b>
 * * *
-### &nbsp;&nbsp;&nbsp; <b>Prognostics and System Health Management</b>
 * <b>6. Huan Wang</b> and Yan-Fu Li*. "Large Language Model Empowered by Domain-Specific Knowledge Base for Industrial Equipment Operation and Maintenance.", <b>SRSE 2023</b>.
 * <b>5. Huan Wang</b> and Yan-Fu Li*. "Large-Scale Language Models for PHM in Railway Systems - Potential Applications, Limitations, and Solutions", <b>EITRT 2023</b>.
 * <b>4. Huan Wang</b>, Guotai Wang*, Ze Sheng, Shaoting Zhang. "Automated Segmentation of Skin Lesion Based on Pyramid Attention Network", <b>MLMI 2019</b>.
@@ -117,8 +116,10 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Honors & Awards</b>
 * * *
-* <b>15. </b>First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
-* <b>14. </b>2023 China-Japan Friendship NSK Mechanical Engineering <b> Outstanding Paper Award</b> (2023年中日友好NSK机械工学优秀论文奖)
+* <b>17. </b><b>Outstanding Oral Presentation Award </b> of 5th International Conference on System Reliability and Safety Engineering (第五届系统可靠性与安全工程国际会议优秀口头报告奖), 2023
+* <b>16. </b>First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
+* <b>15. </b>2023 China-Japan Friendship NSK Mechanical Engineering <b> Outstanding Paper Award</b> (2023年中日友好NSK机械工学优秀论文奖)
+* <b>14. </b>Tsinghua Scholarship for Overseas Graduate Studies (清华大学博士生短期出国访学奖学金)
 * <b>13. </b>Second Prize of the 2022 China Digital Vehicle Competition-Power Battery Safety Risk Assessment and Fault Warning (2022年中国数字汽车大赛二等奖-动力电池安全风险评估与故障预警)
 * <b>12. </b>Third Prize of 2022 Guangdong-Hong Kong-Macau International Algorithm Competition-Surface Defect Detection of Industrial Products (粤港澳大湾区国际算法算例大赛优胜奖-工业品表面缺陷检测)
 * <b>11. </b><b> Outstanding Paper Award </b> of China Industrial Engineering Doctoral Forum (2022年全国工业工程博士生论坛优秀论文奖)
