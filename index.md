@@ -119,7 +119,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Honors & Awards</b>
 * * *
-* <b>19. </b>Excellent Award in the 2023 China Intelligent Transportation Technology Innovation Competition (9.	2023年中国智能交通科创大赛-基于ADS-B的飞行流量预测优胜奖,并列第四名））
+* <b>19. </b>Excellent Award in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-基于ADS-B的飞行流量预测优胜奖,并列第四名））
 * <b>18. </b>Second Prize in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-智能网联汽车网络与数据安全二等奖，并列第二名）
 * <b>17. </b><b>Outstanding Oral Presentation Award </b> of 5th International Conference on System Reliability and Safety Engineering (第五届系统可靠性与安全工程国际会议优秀口头报告奖), 2023
 * <b>16. </b>First Class Scholarship of Tsinghua University,Yantai Talent Scholarship (清华大学综合一等奖学金, 烟台英才奖学金), 2023
