@@ -23,7 +23,7 @@ description: I focus on developing robust and trusted artificial intelligence al
 ## &nbsp; <b>Biography</b>
 * * *
 > I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I received my undergraduate and master's degrees in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. Previously, I conducted in-depth research in medical information processing, focusing on medical image analysis and electrocardiogram diagnosis. Currently, my research interests lie in developing robust and trusted artificial intelligence solutions for complex electromechanical systems' intelligent diagnosis. I have a solid foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. My expertise lies in efficiently and reliably applying artificial intelligence algorithms to solve real industrial problems.
-To date, I have published more than 30 academic papers, including more than 20 SCI journal papers, and obtained several invention patents. Furthermore, I have been recognized for my contributions to the field, having won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, the Outstanding Paper Award of the China Industrial Engineering Doctoral Forum,China-Japan Friendship NSK Mechanical Engineering Outstanding Paper Award, and the Outstanding Graduate of Sichuan Province.
+To date, I have published more than 30 academic papers, including more than 20 SCI journal papers, and obtained several invention patents. Furthermore, I have been recognized for my contributions to the field, having won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, the Outstanding Paper Award of the China Industrial Engineering Doctoral Forum,China-Japan Friendship NSK Mechanical Engineering Outstanding Paper Award, Tsinghua University 129 Scholarship, Selected for the Future Professor Training Program, and the Outstanding Graduate of Sichuan Province.
 
 
 ## &nbsp; <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
@@ -53,6 +53,10 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 ## &nbsp; <b>Selected Journal Articles</b>
 * * *
 #### &nbsp;&nbsp;&nbsp; <b>Remark: # means equal contribution; * means corresponding author.</b>
+
+### &nbsp;&nbsp;&nbsp; <b>2024-2025</b>
+
+* <b>33. Huan Wang#</b>, Xindan Wang#, Yizhuo Yang#, Konstantinos Gryllias, and Zhiliang Liu*."A Few-Shot Machinery Fault Diagnosis Framework Based on Self-Supervised Signal Representation Learning", <b>IEEE Transactions on Instrumentation and Measurement, 2024, IF 5.6, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 
 ### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
 
@@ -119,6 +123,8 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ## &nbsp; <b>Honors & Awards</b>
 * * *
+* <b>21. </b>Tsinghua University 129 Scholarship (清华大学一二九奖学金, 清华大学三大奖之一，2023年清华大学学生奖励大会上获校级表彰)
+* <b>20. </b>Selected for Future Professor Training Program (入选未来教授培养计划)
 * <b>19. </b>Excellent Award in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-基于ADS-B的飞行流量预测优胜奖,并列第四名））
 * <b>18. </b>Second Prize in the 2023 China Intelligent Transportation Technology Innovation Competition (2023年中国智能交通科创大赛-智能网联汽车网络与数据安全二等奖，并列第二名）
 * <b>17. </b><b>Outstanding Oral Presentation Award </b> of 5th International Conference on System Reliability and Safety Engineering (第五届系统可靠性与安全工程国际会议优秀口头报告奖), 2023
