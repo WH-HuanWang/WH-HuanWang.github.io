@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: I focus on developing robust and trusted artificial intelligence algorithms for intelligent diagnosis of complex electromechanical systems.
+description: I Focus on Developing Robust and Trusted Artificial Intelligence Algorithms for Prognostics and Health Management of High-End Electromechanical Systems.
 ---
 
 <table border="0">
