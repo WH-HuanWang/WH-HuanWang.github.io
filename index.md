@@ -14,8 +14,8 @@ description: I Focus on Developing Robust and Trusted Artificial Intelligence Al
       <p>Shunde Building, Tsinghua University, Beijing</p>
       <p>Email: <b>wh.huanwang@gmail.com; huan-wan21@mails.tsinghua.edu.cn</b></p>
     </td>
-    <td width="45%">
-      <img src="image/WangHuan2.png" width="100%">
+    <td width="25%">
+      <img src="image/WangHuan 3.jpg" width="100%">
     </td>
   </tr>
 </table>
