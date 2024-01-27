@@ -15,7 +15,7 @@ description: I Focus on Developing Robust and Trusted Artificial Intelligence Al
       <p>Email: <b>wh.huanwang@gmail.com; huan-wan21@mails.tsinghua.edu.cn</b></p>
     </td>
     <td width="25%">
-      <img src="image/WangHuan 3.jpg" width="100%">
+      <img src="image/WangHuan6.jpg" width="100%">
     </td>
   </tr>
 </table>
@@ -56,6 +56,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>2024-2025</b>
 
+* <b>34. Huan Wang#</b>, Wenjun Luo#, Zhiliang Liu, Junhao Zhang, and Mingjian Zuo."Fourier Feature Refiner Network with Soft Thresholding for Machinery Fault Diagnosis under Highly Noisy Conditions", <b>IEEE Internet of Things Journal, 2024, IF 10.6, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>33. Huan Wang#</b>, Xindan Wang#, Yizhuo Yang#, Konstantinos Gryllias, and Zhiliang Liu*."A Few-Shot Machinery Fault Diagnosis Framework Based on Self-Supervised Signal Representation Learning", <b>IEEE Transactions on Instrumentation and Measurement, 2024, IF 5.6, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 
 ### &nbsp;&nbsp;&nbsp; <b>2023-2024</b>
