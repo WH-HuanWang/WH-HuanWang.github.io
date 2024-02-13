@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Huan Wang
-description: I Focus on Developing Robust and Trusted Artificial Intelligence Algorithms for Prognostics and Health Management of High-End Electromechanical Systems.
+description: I Focus on Developing Robust and Trusted Artificial Intelligence Algorithms for Prognostics and Health Management of Complex Systems.
 ---
 
 <table border="0">
@@ -22,8 +22,8 @@ description: I Focus on Developing Robust and Trusted Artificial Intelligence Al
 
 ## &nbsp; <b>Biography</b>
 * * *
-> I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I received my undergraduate and master's degrees in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. Previously, I conducted in-depth research in medical information processing, focusing on medical image analysis and electrocardiogram diagnosis. Currently, my research interests lie in developing robust and trusted artificial intelligence solutions for complex electromechanical systems' intelligent diagnosis. I have a solid foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. My expertise lies in efficiently and reliably applying artificial intelligence algorithms to solve real industrial problems.
-To date, I have published more than 30 academic papers, including more than 20 SCI journal papers, and obtained several invention patents. Furthermore, I have been recognized for my contributions to the field, having won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, the Outstanding Paper Award of the China Industrial Engineering Doctoral Forum,China-Japan Friendship NSK Mechanical Engineering Outstanding Paper Award, Tsinghua University 129 Scholarship, Selected for the Future Professor Training Program, and the Outstanding Graduate of Sichuan Province.
+> I am a Ph.D. student in the Department of Industrial Engineering at Tsinghua University. I received my undergraduate and master's degrees in Mechanical Engineering from the University of Electronic Science and Technology of China in 2016 and 2021, respectively. Previously, I conducted in-depth research in medical information processing, focusing on medical image analysis and electrocardiogram diagnosis. Currently, my research interests lie in developing robust and trusted artificial intelligence solutions for intelligent diagnosis of complex electromechanical systems. I have a solid foundation in fault diagnosis and condition monitoring of rotating machinery, high-speed trains, semiconductor manufacturing, electric vehicles, and lithium-ion batteries. My expertise lies in efficiently and reliably applying artificial intelligence algorithms to solve real industrial problems.
+To date, I have published more than 30 academic papers, including more than 20 SCI journal papers, and obtained several invention patents. Furthermore, I have been recognized for my contributions to the field, having won the Best Applied Paper Award at the Quality and Reliability Annual Conference of Tsinghua University, the Outstanding Paper Award of the China Industrial Engineering Doctoral Forum, China-Japan Friendship NSK Mechanical Engineering Outstanding Paper Award, Tsinghua University 129 Scholarship, Selected for the Future Professor Training Program, and the Outstanding Graduate of Sichuan Province.
 
 
 ## &nbsp; <b>Research Interests</b> [[Google Scholar]](https://scholar.google.com.hk/citations?user=Um0g-XMAAAAJ&hl=zh-CN&authuser=1)
@@ -37,6 +37,9 @@ To date, I have published more than 30 academic papers, including more than 20 S
 * <b>Tsinghua University &nbsp;&nbsp;&nbsp;[2021 - present]</b>   
 Ph.D. Management Science and Engineering, Department of Industrial Engineering
 
+* <b>Hong Kong University of Science and Technology (Guangzhou) &nbsp;&nbsp;&nbsp;[2023.12 - present]</b>   
+Visiting scholar, Supervisor: Prof. Fugee TSUNG
+
 * <b>KU Leuven, Belgium &nbsp;&nbsp;&nbsp;[2022.12 - 2023.07]</b>   
 Visiting scholar, Supervisor: Prof. Konstantinos Gryllias
 
@@ -47,7 +50,7 @@ M.S. Mechanical engineering, School of mechanical and electrical engineering
 Software development and entrepreneurship
 
 * <b>University of Electronic Science and Technology of China &nbsp;&nbsp;&nbsp;[2012 - 2016]</b>   
-B.S. Mechanical design, manufacturing and automation, School of mechanical and electrical engineering
+B.S. Mechanical design, manufacturing, and automation, School of mechanical and electrical engineering
 
 
 ## &nbsp; <b>Selected Journal Articles</b>
@@ -56,6 +59,7 @@ B.S. Mechanical design, manufacturing and automation, School of mechanical and e
 
 ### &nbsp;&nbsp;&nbsp; <b>2024-2025</b>
 
+* <b>35. Huan Wang</b>, Yan-Fu Li*, and Tianli Men."Wavelet Integrated CNN with Dynamic Frequency Aggregation for High-Speed Train Wheel Wear Prediction", <b>IEEE Transactions on Intelligent Transportation Systems, 2024, IF 8.5, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>34. Huan Wang#</b>, Wenjun Luo#, Zhiliang Liu, Junhao Zhang, and Mingjian Zuo."Fourier Feature Refiner Network with Soft Thresholding for Machinery Fault Diagnosis under Highly Noisy Conditions", <b>IEEE Internet of Things Journal, 2024, IF 10.6, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 * <b>33. Huan Wang#</b>, Xindan Wang#, Yizhuo Yang#, Konstantinos Gryllias, and Zhiliang Liu*."A Few-Shot Machinery Fault Diagnosis Framework Based on Self-Supervised Signal Representation Learning", <b>IEEE Transactions on Instrumentation and Measurement, 2024, IF 5.6, [[PDF]](https://ieeexplore.ieee.org/)</b>.
 
